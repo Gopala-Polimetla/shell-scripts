@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This scripts generates a list of random passwords.
-# This is comment
+# This is comment fdgs
 
 # A random number as a password
 PASSWORD="${RANDOM}"
