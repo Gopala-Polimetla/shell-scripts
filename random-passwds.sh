@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # This scripts generates a list of random passwords.
+# This is comment
 
 # A random number as a password
 PASSWORD="${RANDOM}"
